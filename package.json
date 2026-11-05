@@ -28,8 +28,10 @@
   "files": [
     "lib",
     "locale",
+    "assets",
     "cordis.patch.yml",
     "icon.svg",
+    "screenshots.json",
     "README.md"
   ],
   "dsh": {
