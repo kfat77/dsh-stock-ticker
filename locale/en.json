@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Stock ticker",
+    "description": "Scrolling market strip above the Harness window with configurable symbols and refresh interval."
+  }
+}
